@@ -27,8 +27,8 @@ Actualmente soy estudiante avanzado de la Licenciatura en Inteligencia Artificia
 
 - 🐈 **Mushu y Miu:** Mis mejores amigos de la vida. Mis dos gatos que me acompañan y supervisan mientras tiro líneas de código.
 - 🛹 **Skate & Longboard:** Fuera de las pantallas, estoy aprendiendo a andar (soy principiante, pero disfruto el proceso!).
-- 🎸 **Música:** Me gusta mucho el indie, el rock, metal, punk y el folclore. Me encanta tocar instrumentos y descubrir nuevos sonidos.
-- 🌱 **Botánica Hogareña:** Aficionado al cuidado de plantas de interior; siempre buscando sumar un poco de verde a mi espacio de trabajo.
+- 🎸 **Música:** Me gusta mucho el indie, el rock, metal, punk y el folclore. Me encanta tocar instrumentos, bailar y cantar.
+- 🎮 **Cultura Geek:** En mis ratos libres cambio el código por videojuegos, series de fantasía o un buen anime.
 - <img src="image_0.png" width="28px" align="center"> **Mi sueño:** Es tener una casita en la montaña, una bonita familia, un jardin con huerta, y poder disfrutar de una vida tranquila.
 
 ### 📫 Conectemos
