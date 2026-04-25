@@ -1,6 +1,6 @@
 # Hola! Soy Luciano Iván Alvarez 👋
 
-**Software Developer | RPA Architect | Mechatronics & AI**
+**Industrial Automation Engineer | RPA Architect | AI Applied to Operations**
 
 Soy un desarrollador de software con sede en Cipolletti, Río Negro, enfocado en la creación de automatizaciones inteligentes e interfaces robustas. Mi perfil combina dos mundos: pasé más de 10 años como técnico y coordinador del mantenimiento mecatrónico de activos críticos en el sector Oil & Gas y hoy traslado esa mentalidad de "cero fallas" al diseño de arquitecturas de software resilientes. 
 
